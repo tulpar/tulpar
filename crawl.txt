@@ -1,0 +1,16 @@
+/robots.txt
+/administrator/
+/cache/
+/cli/
+/components/
+/images/
+/includes/
+/installation/
+/language/
+/libraries/
+/logs/
+/media/
+/modules/
+/plugins/
+/templates/
+/tmp/
