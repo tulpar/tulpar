@@ -101,7 +101,7 @@ desc="""Tulpar - Web Vulnerability Scanner\n
 1111111111111111111111111111111111111110001111110001111110011111111111111111111111111111111111111111
 """
 parser=argparse.ArgumentParser(description=desc)
-parser.add_argument("action",help="Action: full xss sql fuzzing e-mail credit-card whois links portscanner urlEncode cyberthreatintelligence")
+parser.add_argument("action",help="Action: full xss sql fuzzing e-mail credit-card whois links portscanner urlEncode cyberthreatintelligence commandInjection directoryTraversal fileInclude headerCheck certificate method IP2Location FileInputAvailable")
 parser.add_argument("web_URL",help="URL")
 args = parser.parse_args()
 url=""
