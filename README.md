@@ -1,0 +1,36 @@
+Tulpar is a open source web vulnerability scanner for written to make web penetration testing automated. Tulpar has the following features.
+
+-Sql Injection (GET Method)
+-XSS (GET Method)
+-Crawl
+-E-mail Disclosure
+-Credit Card Disclosure
+-Whois
+-Command Injection (GET Method)
+-Directory Traversal (GET Method)
+-File Include (GET Method)
+-Server Information
+-Technology Information
+-X-Content-Type Check
+-X-XSS-Protection Check
+-TCP Port Scanner
+-robots.txt Check
+-URL  Encode
+-Certification Information
+-Available Methods
+-Cyber Threat Intelligence
+-IP2Location
+-File Input Available Check
+
+Installation:
+git clone https://github.com/anilbaranyelken/tulpar.git
+cd tulpar
+pip install ir requirments
+
+Usage:
+python tulpar.py action web_URL
+  action      Action: full xss sql fuzzing e-mail credit-card whois links
+              portscanner urlEncode cyberthreatintelligence commandInjection
+              directoryTraversal fileInclude headerCheck certificate method
+              IP2Location FileInputAvailable
+  web_URL     URL
